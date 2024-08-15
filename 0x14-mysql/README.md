@@ -1,6 +1,3 @@
-# 0x14-mysql
+# Install MYSQL
 
-## Install mysql
-
-`sudo apt-get install mysql-server mysql-client`
-
+Install Mysql Server on both servers
